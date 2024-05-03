@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(85, 78, 78);
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  margin: 0 auto;
+  padding: 1em;
+  color: white;
+}
+.result {
+  height: 50px;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+p {
+  text-align: center;
+  padding-bottom: 20px;
+}
+button {
+  padding: 0.5em;
+  font-size: 14px;
+  width: 100px;
+  border-radius: 4px;
+}
